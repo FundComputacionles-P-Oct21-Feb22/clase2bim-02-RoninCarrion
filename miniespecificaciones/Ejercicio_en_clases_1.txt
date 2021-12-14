@@ -1,0 +1,15 @@
+(direcciones_domicilio(2)(2), x(60)[{a-z}, {A-Z}, BS])
+1. Inicio
+2. direcciones_domicilio (2)(2), x(60)[{a-z}, {A-Z}, BS]
+3. Escribir "Ingresar una dirección de domicilio: "
+4. leer direcciones_domicilio[0][0]
+5. Escribir "Ingresar una dirección de domicilio: "
+6. leer direcciones_domicilio[1][0]
+7. Escribir "Ingresar una dirección de domicilio: "
+8. leer direcciones_domicilio[1][1]
+9. Escribir "Ingresar una dirección de domicilio: "
+10. leer direcciones_domicilio[0][1]
+11. Fin 
+
+
+
